@@ -1,2 +1,2 @@
-# itmd441_lab1
+# itmd441
 Introduction to ITMD 441 &amp; me

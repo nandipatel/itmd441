@@ -1,6 +1,12 @@
 h1 {
 	margin-left: auto;
+	font-size: 250%;
 }
+
+p {
+	font-size: 150%;
+}
+	
 body {
-	background-color:  #C7C1E8;
+	background-color:  powderblue;
 }
